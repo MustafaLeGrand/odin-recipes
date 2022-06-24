@@ -1,0 +1,1 @@
+By finishing this project I applied all the concepts learned on the first section of The Odin Project.
